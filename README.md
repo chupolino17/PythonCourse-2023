@@ -1,7 +1,7 @@
 # PythonCourse-2023
 
 
-Ссылка на папку с записями лекций: https://disk.yandex.ru/d/uf3xV3ZYl4U3Og
+Ссылка на папку с записями лекций: https://disk.yandex.ru/d/uf3xV3ZYl4U3Og \
 Контест 1: https://contest.yandex.ru/contest/51888/problems/
 
 # Как сдать курс
