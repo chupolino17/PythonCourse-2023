@@ -3,7 +3,8 @@
 
 Ссылка на папку с записями лекций: https://disk.yandex.ru/d/uf3xV3ZYl4U3Og \
 Контест 1: https://contest.yandex.ru/contest/51888/problems/ \
-Контест 2: https://contest.yandex.ru/contest/52672/problems/
+Контест 2: https://contest.yandex.ru/contest/52672/problems/ \
+Контест 3: https://contest.yandex.ru/contest/53803
 
 # Как сдать курс
 
