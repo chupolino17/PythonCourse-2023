@@ -5,6 +5,7 @@
 Контест 1: https://contest.yandex.ru/contest/51888/problems/ \
 Контест 2: https://contest.yandex.ru/contest/52672/problems/ \
 Контест 3: https://contest.yandex.ru/contest/53803/problems
+Лаборатоорная: [тут](LabWork/lab_work.ipynb)
 
 # Как сдать курс
 
@@ -14,7 +15,7 @@
     - 2 недели на контест
 2. Interactive (2)
     - 20 баллов (ранжируются по результату)
-2. Web Code Review (1) 
+2. Web Code Review (1)
     - Работа над кодом в **несколько** итераций
     - Есть обяязательная часть
     - Доп баллы (до 2ух) к финальной оценке за бонусную
